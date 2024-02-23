@@ -1,4 +1,5 @@
 github tutorial step by step 
+git add --a  for add all folder in git
 git --help
 git -v for version
 git -c for path
